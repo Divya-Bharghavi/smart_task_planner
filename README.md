@@ -4,7 +4,6 @@ A project that breaks user goals into actionable tasks with timelines using AI r
 
 ## Structure
 - backend/ → contains backend code
-- frontend/ → contains frontend code
 - .env → environment variables (not uploaded)
 
 ## How to run
